@@ -36,4 +36,4 @@ def print_instruction():
 
 
 def exit_message():
-    print('Goodbye!')
+    print(' Goodbye! ')
