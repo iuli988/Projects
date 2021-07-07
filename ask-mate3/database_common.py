@@ -7,7 +7,7 @@ import psycopg2.extras
 
 def get_connection_string():
     # setup connection string
-    # to do this, please define these environment variables first
+    # to do this,  please define these environment variables first
     user_name = "iuli"
     password = "1234"
     host = "localhost"
